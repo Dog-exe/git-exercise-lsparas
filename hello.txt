@@ -1,1 +1,0 @@
-Hello! My name is [Your Name] and I'm learning Git!
